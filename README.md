@@ -12,7 +12,7 @@ I am a software engineer with a passion for technology. I try to maintain a grow
 |---|---|
 | C# | [https://dotnet.microsoft.com/en-us/languages/csharp](https://dotnet.microsoft.com/en-us/languages/csharp) |
 | .NET Core | [https://learn.microsoft.com/en-us/dotnet/](https://learn.microsoft.com/en-us/dotnet/) |
-| ASP.NET | [https://learn.microsoft.com/en-us/dotnet/architecture/](https://learn.microsoft.com/en-us/dotnet/architecture/) |
+| ASP.NET Core | [https://learn.microsoft.com/en-us/dotnet/architecture/](https://learn.microsoft.com/en-us/dotnet/architecture/) |
 | Figma Design | [https://www.figma.com/](https://www.figma.com/) |
 
 ## Areas of Growth
